@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import "../components/Question.css"
 
 export default function MainQuestion() {
   const [questions, setQuestions] = useState([]);
